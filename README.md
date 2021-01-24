@@ -1,5 +1,3 @@
-# internship-files
-
 # Week 1 Tasks 
 
 1. Draggable div (style.transform)
